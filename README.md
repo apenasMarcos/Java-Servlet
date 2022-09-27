@@ -1,2 +1,2 @@
 # Java-Servlet
-curso de Java Servlet (alura)
+curso de Java Servlet (estudos)
